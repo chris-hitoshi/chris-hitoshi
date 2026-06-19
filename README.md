@@ -1,8 +1,8 @@
 # 💫 About Me:
 - 👨‍🎓 Formado na Bandtec | Faculdade Bandeirantes de Tecnologia
-- 🧑‍💻 Dev Front-end Júnior na ALPE
-- 🧠 Conhecimento em HTML, CSS, JavaScript, Java e Flutter
-- 🤔 Atualmente desenvolvedor Mobile com Flutter
+- 🧑‍💻 Dev Front-end na ALPE
+- 🧠 Conhecimento em HTML, CSS, JavaScript, Java, Angular e **Flutter**
+- 🤔 Atualmente desenvolvedor Mobile/Web com Flutter
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/chrishamai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/christian-hitoshi](https://www.linkedin.com/in/christian-hitoshi-362797205/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836)](mailto:christian.hitoshi@gmail.com)
